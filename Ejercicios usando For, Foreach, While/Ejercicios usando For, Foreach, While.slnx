@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Ejercicios usando For, Foreach, While/">
+    <Project Path="110. Frecuencia de valores en un arreglo/110. Frecuencia de valores en un arreglo.csproj" Id="7b7d84a8-bb42-4e64-8801-827996ff0f33" />
+    <Project Path="Ejercicio 1. Contador simple (for)/Ejercicio 1. Contador simple (for).csproj" Id="64410027-734b-4524-ab5e-443f3d0233f9" />
+    <Project Path="Ejercicio 2. Suma de los primeros 100 números (while)/Ejercicio 2. Suma de los primeros 100 números (while).csproj" Id="47fc3a65-233b-423d-bd47-c197613d8341" />
+    <Project Path="Ejercicio 3. Tabla de multiplicar (for)/Ejercicio 3. Tabla de multiplicar (for).csproj" Id="4cbc0138-ad83-4487-bf85-094b14348454" />
+    <Project Path="Ejercicio 4. Números pares del 1 al 50 (for)/Ejercicio 4. Números pares del 1 al 50 (for).csproj" Id="81061bf4-6887-4a2e-88ea-3f3f60ddbe4f" />
+    <Project Path="Ejercicio 5. Promedio de notas (for)/Ejercicio 5. Promedio de notas (for).csproj" Id="be34a3b3-bf4c-4476-b550-b4c069bdd553" />
+    <Project Path="Ejercicio 6. Arreglo de 5 números (for + foreach)/Ejercicio 6. Arreglo de 5 números (for + foreach).csproj" Id="417609f5-6b5c-4b85-91ce-1316cd34ad06" />
+    <Project Path="Ejercicio 7. Mayor y menor en un arreglo (10 números)/Ejercicio 7. Mayor y menor en un arreglo (10 números).csproj" Id="eb295b6c-c4fe-4a11-b473-c97cbb3afefe" />
+    <Project Path="Ejercicio 8. Positivos, negativos y ceros/Ejercicio 8. Positivos, negativos y ceros.csproj" Id="7cfdede6-84f8-4ae2-9684-0c89fb9baa16" />
+    <Project Path="Ejercicio 9. Búsqueda en un arreglo/Ejercicio 9. Búsqueda en un arreglo.csproj" Id="8612fed2-787f-4a79-a42c-fd3f3afd8b6c" />
+  </Folder>
+</Solution>

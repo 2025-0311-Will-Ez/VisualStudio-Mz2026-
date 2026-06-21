@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\bin\Debug\net10.0\Tienda_Menú.exe
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\bin\Debug\net10.0\Tienda_Menú.deps.json
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\bin\Debug\net10.0\Tienda_Menú.runtimeconfig.json
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\bin\Debug\net10.0\Tienda_Menú.dll
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\bin\Debug\net10.0\Tienda_Menú.pdb
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.dll
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\refint\Tienda_Menú.dll
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.pdb
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\Tienda_Menú.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Tienda_Menú\Tienda_Menú\obj\Debug\net10.0\ref\Tienda_Menú.dll

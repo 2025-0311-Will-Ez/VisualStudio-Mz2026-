@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/Ejercicios usando For, Foreach, While/">
+    <Project Path="Ejercicio 10_Frecuencia de valores en un arreglo/Ejercicio 10_Frecuencia de valores en un arreglo.csproj" Id="a954a08f-b448-4ab8-9258-48b7ac464842" />
+    <Project Path="Ejercicio 1_ Contador simple (for)/Ejercicio 1_ Contador simple (for).csproj" Id="9955e9c1-d6ba-4a4c-a4a5-60d731bcb92b" />
+    <Project Path="Ejercicio 2_ Suma de los primeros 100 números (while)/Ejercicio 2_ Suma de los primeros 100 números (while).csproj" Id="cb479e52-79f1-49ad-966c-e617ded712f4" />
+    <Project Path="Ejercicio 3_ Tabla de multiplicar (for)/Ejercicio 3_ Tabla de multiplicar (for).csproj" Id="9d861651-a889-421a-98ae-96b1373c74d0" />
+    <Project Path="Ejercicio 4_ Números pares del 1 al 50 (for)/Ejercicio 4_ Números pares del 1 al 50 (for).csproj" Id="a5ac98a0-df10-49a3-93ec-804157690bcb" />
+    <Project Path="Ejercicio 5_ Promedio de notas (for)/Ejercicio 5_ Promedio de notas (for).csproj" Id="4fe4448e-04fa-4c48-844e-98464662b42a" />
+    <Project Path="Ejercicio 6_ Arreglo de 5 números (for + foreach)/Ejercicio 6_ Arreglo de 5 números (for + foreach).csproj" Id="4fa4d2bd-d711-42bb-bd49-4e978404680b" />
+    <Project Path="Ejercicio 7_Mayor y menor en un arreglo (10 números)/Ejercicio 7_Mayor y menor en un arreglo (10 números).csproj" Id="7826bc8d-e85b-411c-8d77-febe474abb0e" />
+    <Project Path="Ejercicio 8_ Positivos, negativos y ceros/Ejercicio 8_ Positivos, negativos y ceros.csproj" Id="b17dcf9f-ba14-4b4a-9605-c616a9f56fc7" />
+    <Project Path="Ejercicio 9_Búsqueda en un arreglo/Ejercicio 9_Búsqueda en un arreglo.csproj" Id="bf29b22e-af20-48ef-b98b-c592a49f213a" />
+  </Folder>
+  <Project Path="Ejercicio 10_Identificador de estaciones del año por mes/Ejercicio 10_Identificador de estaciones del año por mes.csproj" />
+  <Project Path="Ejercicio 1_Control de acceso por edad/Ejercicio 1_Control de acceso por edad.csproj" />
+  <Project Path="Ejercicio 2_Sistema de calificaciones escolares/Ejercicio 2_Sistema de calificaciones escolares.csproj" />
+  <Project Path="Ejercicio 3_Verificador de números pares e impares/Ejercicio 3_Verificador de números pares e impares.csproj" />
+  <Project Path="Ejercicio 4_Simulador de cajero automático/Ejercicio 4_Simulador de cajero automático.csproj" />
+  <Project Path="Ejercicio 5_Clasificador de temperatura ambiental/Ejercicio 5_Clasificador de temperatura ambiental.csproj" />
+  <Project Path="Ejercicio 6_Selector de días de la semana/Ejercicio 6_Selector de días de la semana.csproj" />
+  <Project Path="Ejercicio 7_Calculadora básica/Ejercicio 7_Calculadora básica.csproj" />
+  <Project Path="Ejercicio 8_Conversor de tipo de usuario (Roles)/Ejercicio 8_Conversor de tipo de usuario (Roles).csproj" />
+  <Project Path="Ejercicio 9_Dispensador automático de bebidas/Ejercicio 9_Dispensador automático de bebidas.csproj" />
+</Solution>
